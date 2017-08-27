@@ -1,4 +1,4 @@
-##Peterson's Algorithm
+## Peterson's Algorithm
 
 Checkout https://en.wikipedia.org/wiki/Peterson%27s_algorithm for an explaination of the algorithm.
 
